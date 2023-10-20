@@ -17,7 +17,7 @@ class Program
         Console.WriteLine();
 
         // Calculate savings with contributions
-        double retirement = Formula.Solution(principal, annualReturnPercentage, 1, years, contributions);
+        double retirement = Formula.Solution(principal, annualReturnPercentage, years, contributions);
 
         // Calculate ending age
         int endingAge = currentAge + years;
@@ -44,7 +44,7 @@ class Program
         Console.WriteLine();
 
         // calculation with starting 10 years earlier
-        double retireEarlier = Formula.SolutionExtended10(currentAge - 10, principal, annualReturnPercentage, 1, years, contributions);
+        double retireEarlier = Formula.SolutionExtended10(currentAge - 10, principal, annualReturnPercentage, years, contributions);
 
         if (currentAge - 10 < 0)
         {
@@ -74,7 +74,7 @@ class Program
         Console.WriteLine();
         Console.WriteLine();
 
-        double finalRetirement = Formula.SolutionExtended20(currentAge - 20, principal, annualReturnPercentage, 1, years, contributions);
+        double finalRetirement = Formula.SolutionExtended20(currentAge - 20, principal, annualReturnPercentage, years, contributions);
 
         // calculation with starting 20 years earlier
         if (currentAge - 20 < 0)
