@@ -6,11 +6,10 @@ namespace CompoundingInterest
     {
         public static double Solution(double principal, double annualReturn, int years, double contributions)
         {
-            double interestRate = annualReturn;
 
 
-            double retirement = principal * Math.Pow(1 + interestRate, years);
-            retirement += (contributions / interestRate) * (Math.Pow(1 + interestRate, years) - 1);
+            double retirement = principal * Math.Pow(1 + annualReturn, years);
+            retirement += (contributions / annualReturn) * (Math.Pow(1 + annualReturn, years) - 1);
 
             return Math.Round(retirement);
         }
