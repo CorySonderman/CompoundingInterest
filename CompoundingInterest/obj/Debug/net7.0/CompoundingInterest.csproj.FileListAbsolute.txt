@@ -1,0 +1,14 @@
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\bin\Debug\net7.0\CompoundingInterest.exe
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\bin\Debug\net7.0\CompoundingInterest.deps.json
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\bin\Debug\net7.0\CompoundingInterest.runtimeconfig.json
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\bin\Debug\net7.0\CompoundingInterest.dll
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\bin\Debug\net7.0\CompoundingInterest.pdb
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\obj\Debug\net7.0\CompoundingInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\obj\Debug\net7.0\CompoundingInterest.AssemblyInfoInputs.cache
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\obj\Debug\net7.0\CompoundingInterest.AssemblyInfo.cs
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\obj\Debug\net7.0\CompoundingInterest.csproj.CoreCompileInputs.cache
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\obj\Debug\net7.0\CompoundingInterest.dll
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\obj\Debug\net7.0\refint\CompoundingInterest.dll
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\obj\Debug\net7.0\CompoundingInterest.pdb
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\obj\Debug\net7.0\CompoundingInterest.genruntimeconfig.cache
+C:\Users\sonde\Desktop\repos\CompoundingInterest\CompoundingInterest\obj\Debug\net7.0\ref\CompoundingInterest.dll
